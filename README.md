@@ -74,7 +74,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 📕 Bibliotecas
 
-Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
+Esse projeto utilizou as seguintes lib e/ou pré-processadores:
 
 - react-dom
 - react-icons
@@ -92,5 +92,3 @@ Todos direitos são reservados a Netflix e ao The Movie Database.
 Esse projeto está sob a licença MIT.
 
 <hr/>
-
-Feito por Gustavo Teixeira
