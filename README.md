@@ -55,7 +55,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/gustavo-nt/netflix-clone
+$ git clone https://github.com/mikarrega/netflix-clone
 
 # Instale as dependências
 $ yarn ou npm
